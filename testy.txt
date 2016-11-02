@@ -4,3 +4,4 @@ test3a:	komp: la; github repo: lulekpip/piptest; user github:lulekpip ; user loc
 test3b:	komp: la; github repo: lulekpip/piptest; user github:lulekpip ; user local repo: pepino_pc
 test3c:	komp: la; github repo: lulekpip/piptest; user github:lulekpip ; user local repo: pepino_pc
 test4a:	komp: la; github repo: lulekpip/piptest; user github:lulekll ; user local repo: pepino_pc
+test4b:	komp: la; github repo: lulekpip/piptest; user github:lulekll ; user local repo: pepino_pc
