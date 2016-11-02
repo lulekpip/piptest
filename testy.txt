@@ -1,0 +1,1 @@
+test1:	komp: pc; github repo: lulekpip/piptest; user github:lulekpip ; user local repo: pepino_pc
