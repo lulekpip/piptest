@@ -1,3 +1,4 @@
 test1:	komp: pc; github repo: lulekpip/piptest; user github:lulekpip ; user local repo: pepino_pc
 test2:	komp: pc; github repo: lulekpip/piptest; user github:lulekll ; user local repo: pepino_pc
-test2:	komp: la; github repo: lulekpip/piptest; user github:lulekpip ; user local repo: pepino_pc
+test3a:	komp: la; github repo: lulekpip/piptest; user github:lulekpip ; user local repo: pepino_pc
+test3b:	komp: la; github repo: lulekpip/piptest; user github:lulekpip ; user local repo: pepino_pc
