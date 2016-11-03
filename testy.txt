@@ -7,4 +7,5 @@ test4a:	komp: la; github repo: lulekpip/piptest; user github:lulekll ; user loca
 test4b:	komp: la; github repo: lulekpip/piptest; user github:lulekll ; user local repo: pepino_pc
 test5:	komp: pc; github repo: lulekpip/piptest; user github:lulekll ; user local repo: lulekll
 test6:	komp: pc; github repo: lulekpip/piptest; user github:lulekll ; user local repo: lulekll; ssh
-test7:	komp: pc; github repo: lulekpip/piptest; user github:lulekll ; user local repo: lulekll; phpstorm
+test7a:	komp: pc; github repo: lulekpip/piptest; user github:lulekll ; user local repo: lulekll; phpstorm
+test7b:	komp: pc; github repo: lulekpip/piptest; user github:lulekll ; user local repo: lulekll; phpstorm
