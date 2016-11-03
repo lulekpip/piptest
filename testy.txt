@@ -9,3 +9,4 @@ test5:	komp: pc; github repo: lulekpip/piptest; user github:lulekll ; user local
 test6:	komp: pc; github repo: lulekpip/piptest; user github:lulekll ; user local repo: lulekll; ssh
 test7a:	komp: pc; github repo: lulekpip/piptest; user github:lulekll ; user local repo: lulekll; phpstorm
 test7b:	komp: pc; github repo: lulekpip/piptest; user github:lulekll ; user local repo: lulekll; phpstorm
+test7c:	komp: pc; github repo: lulekpip/piptest; user github:lulekll ; user local repo: lulekll; phpstorm
