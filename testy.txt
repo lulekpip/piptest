@@ -12,3 +12,4 @@ test7b:	komp: pc; github repo: lulekpip/piptest; user github:lulekll ; user loca
 test7c:	komp: pc; github repo: lulekpip/piptest; user github:lulekll ; user local repo: lulekll; phpstorm
 test7d:	komp: pc; github repo: lulekpip/piptest; user github:lulekll ; user local repo: lulekll; phpstorm
 test7e:	komp: pc; github repo: lulekpip/piptest; user github:lulekll ; user local repo: lulekll; phpstorm
+test8:	komp: la; github repo: lulekpip/piptest; user github:lulekpip ; user local repo: lulekpip; phpstorm ssh
